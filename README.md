@@ -1,4 +1,4 @@
-# Homework 1
+# Code Refactor
 
 [The Horiseon homepage](https://christinakerr.github.io/Homework1/) is designed to give potential customers an idea of the services and benefits Horiseon offers. I received a rough draft of this page and was tasked with making it more accessible and making the code easier to read and understand.
 
